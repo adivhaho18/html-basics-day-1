@@ -1,6 +1,6 @@
 # South African Provinces – Day 1 HTML Project
 
-This beginner-friendly webpage is a simple, clean layout that introduces all **nine provinces of South Africa** with navigation, brief summaries, and images. It was built using only **HTML5** as part of my daily web development learning journey, aimed at mastering the basics of web structure, content organization, and internal page linking.
+A beginner-friendly webpage built using only **HTML5** that introduces all **nine provinces of South Africa** with navigation, brief summaries, and images. This project is part of my daily web development learning journey.
 
 ## 🔥 Key Features
 - One-page scrollable layout with `nav` for quick jumps to each province.
@@ -14,3 +14,4 @@ This beginner-friendly webpage is a simple, clean layout that introduces all **n
 - How to use anchor links to navigate within the same page using `id` attributes.
 - Embedding and displaying images with `alt` attributes for accessibility.
 - Organizing content in a clean, readable structure for educational use.
+
